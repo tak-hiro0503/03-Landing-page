@@ -1,0 +1,21 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  color: white;
+  margin: 0 auto;
+  display: flex;
+  align-items:center;
+}
+.banner p {
+  opacity: 0.6;
+  font-size: large;
+}
+
+.banner a {
+  background-color: #1edd88;
+  padding: 10px 25px;
+  border-radius: 20px;
+  color: white;
+  display: inline-block;
+}

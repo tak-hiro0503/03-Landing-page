@@ -1,0 +1,17 @@
+.footer{
+  height: 250px;
+  display: flex;
+  align-items: center;
+  margin: 50px auto;
+  background-color: #2c2b2b;
+  color: white;
+}
+
+.fab {
+  color: #1EDD88;
+  font-size: 30px;
+}
+
+.fas{
+  color: red;
+}
